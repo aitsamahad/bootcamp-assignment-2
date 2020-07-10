@@ -2,6 +2,10 @@
   display: flex;
   justify-content: center;
   width: 65%;
+  background: white;
+  border: 3px solid #8ebece;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
 @media only screen and (max-width: 770px) {
